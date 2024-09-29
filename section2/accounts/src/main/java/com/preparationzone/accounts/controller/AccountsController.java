@@ -34,7 +34,7 @@ public class AccountsController {
 
     @Operation(
             summary = "Create Account REST API",
-            description = "REST API to create new Customer &  Account inside EazyBank"
+            description = "REST API to create new Customer &  Account inside MyBank"
     )
     @ApiResponses({
             @ApiResponse(
