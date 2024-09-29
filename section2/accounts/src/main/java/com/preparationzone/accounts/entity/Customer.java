@@ -9,7 +9,7 @@ import lombok.*;
 @ToString
 @AllArgsConstructor
 @NoArgsConstructor
-public class Customer extends BaseEntity{
+public class Customer extends BaseEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
